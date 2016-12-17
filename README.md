@@ -2,6 +2,8 @@
 created by David Laing
 2016-12-16
 
+[![Build Status](https://travis-ci.org/laingdk/decisiontool.svg?branch=master)](https://travis-ci.org/laingdk/decisiontool)
+
 A python package/distribution that guides you through difficult decisions.
 
 ### To install package:
